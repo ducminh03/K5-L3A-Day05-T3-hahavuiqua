@@ -340,4 +340,3 @@
   - **Nhóm có đổi ý gì sau ca đó không:**  
     1. Nhóm giữ nguyên bảng phân mức tự chủ 5 tool ở §4, vì quy tắc *"không tự tách trẻ khỏi người lớn"* và chốt khoá nút ở Thẻ tóm tắt đã chặn chính xác lỗi không đảo được (tránh cảnh vé mẹ bị hoàn mất không rút lại được trong khi bé 5 tuổi bị từ chối làm thủ tục ở sân bay).  
     2. Điểm nhóm bổ sung sau ca demo: Bổ sung rõ trường hợp "tách đặt chỗ / hoàn một phần vé khi có trẻ nhỏ đi kèm" vào danh sách việc Cấm AI tự xử lý ở §1 và §4; đồng thời ở Thẻ tóm tắt của Prototype (§5), hiển thị rõ gợi ý hướng đi thay thế (*"Hoàn/đổi cho cả 2 mẹ con hoặc gặp nhân viên để làm thủ tục trẻ đi một mình / đổi người lớn đi kèm"*) trước khi bấm chuyển nhân viên.  
-  - 
